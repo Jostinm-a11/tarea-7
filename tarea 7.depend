@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\dell\pictures\tarea 7\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1729795360 source:c:\users\dell\pictures\tarea 7\untitled10.c
+	<stdio.h>
+	<stdlib.h>
+
+1729795360 source:c:\users\dell\pictures\tarea 7\untitled11.c
+	<stdio.h>
+	<ctype.h>
+
+1729807694 source:c:\users\dell\pictures\tarea 7\untitled1.c
+	<stdio.h>
+
+1729795360 source:c:\users\dell\pictures\tarea 7\untitled14.c
+	<stdio.h>
+
+1729795384 source:c:\users\dell\pictures\tarea 7\untitled12.c
+	<stdio.h>
+	<ctype.h>
+
+1729795360 source:c:\users\dell\pictures\tarea 7\untitled16.c
+	<stdio.h>
+	<string.h>
+
+1729795398 source:c:\users\dell\pictures\tarea 7\untitled13.c
+	<stdio.h>
+
+1729795360 source:c:\users\dell\pictures\tarea 7\untitled17.c
+	<stdio.h>
+	<string.h>
+
+1729795360 source:c:\users\dell\pictures\tarea 7\untitled18.c
+	<stdio.h>
+
+1729795360 source:c:\users\dell\pictures\tarea 7\untitled19.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1729820367 source:c:\users\dell\pictures\tarea 7\22.c
+	<stdio.h>
+
